@@ -1,0 +1,11 @@
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleClientCLI\BoggleClientCLI\bin\Debug\BoggleClientCLI.exe.config
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleClientCLI\BoggleClientCLI\bin\Debug\BoggleClientCLI.exe
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleClientCLI\BoggleClientCLI\bin\Debug\BoggleClientCLI.pdb
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleClientCLI\BoggleClientCLI\obj\Debug\BoggleClientCLI.csprojResolveAssemblyReference.cache
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleClientCLI\BoggleClientCLI\obj\Debug\BoggleClientCLI.exe
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleClientCLI\BoggleClientCLI\obj\Debug\BoggleClientCLI.pdb
+D:\FAKS\DOTNET\Boggle\BoggleClientCLI\BoggleClientCLI\bin\Debug\BoggleClientCLI.exe.config
+D:\FAKS\DOTNET\Boggle\BoggleClientCLI\BoggleClientCLI\obj\Debug\BoggleClientCLI.exe
+D:\FAKS\DOTNET\Boggle\BoggleClientCLI\BoggleClientCLI\obj\Debug\BoggleClientCLI.pdb
+D:\FAKS\DOTNET\Boggle\BoggleClientCLI\BoggleClientCLI\bin\Debug\BoggleClientCLI.exe
+D:\FAKS\DOTNET\Boggle\BoggleClientCLI\BoggleClientCLI\bin\Debug\BoggleClientCLI.pdb

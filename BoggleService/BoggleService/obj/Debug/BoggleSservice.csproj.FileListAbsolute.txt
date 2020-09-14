@@ -1,0 +1,6 @@
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\bin\Debug\BoggleSservice.dll.config
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\bin\Debug\BoggleSservice.dll
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\bin\Debug\BoggleSservice.pdb
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\obj\Debug\BoggleSservice.csprojResolveAssemblyReference.cache
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\obj\Debug\BoggleSservice.dll
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\obj\Debug\BoggleSservice.pdb

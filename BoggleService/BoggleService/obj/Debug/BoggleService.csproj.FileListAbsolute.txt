@@ -1,0 +1,16 @@
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\bin\Debug\BoggleSservice.dll.config
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\bin\Debug\BoggleSservice.dll
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\bin\Debug\BoggleSservice.pdb
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\obj\Debug\BoggleSservice.dll
+c:\users\pa7ch\documents\visual studio 2015\Projects\BoggleSservice\BoggleSservice\obj\Debug\BoggleSservice.pdb
+C:\Users\pa7ch\Documents\Visual Studio 2015\Projects\BoggleService\BoggleService\bin\Debug\BoggleSservice.dll.config
+C:\Users\pa7ch\Documents\Visual Studio 2015\Projects\BoggleService\BoggleService\bin\Debug\BoggleSservice.dll
+C:\Users\pa7ch\Documents\Visual Studio 2015\Projects\BoggleService\BoggleService\bin\Debug\BoggleSservice.pdb
+C:\Users\pa7ch\Documents\Visual Studio 2015\Projects\BoggleService\BoggleService\obj\Debug\BoggleService.csprojResolveAssemblyReference.cache
+C:\Users\pa7ch\Documents\Visual Studio 2015\Projects\BoggleService\BoggleService\obj\Debug\BoggleSservice.dll
+C:\Users\pa7ch\Documents\Visual Studio 2015\Projects\BoggleService\BoggleService\obj\Debug\BoggleSservice.pdb
+D:\FAKS\DOTNET\Boggle\BoggleService\BoggleService\bin\Debug\BoggleSservice.dll.config
+D:\FAKS\DOTNET\Boggle\BoggleService\BoggleService\bin\Debug\BoggleSservice.dll
+D:\FAKS\DOTNET\Boggle\BoggleService\BoggleService\bin\Debug\BoggleSservice.pdb
+D:\FAKS\DOTNET\Boggle\BoggleService\BoggleService\obj\Debug\BoggleSservice.dll
+D:\FAKS\DOTNET\Boggle\BoggleService\BoggleService\obj\Debug\BoggleSservice.pdb
